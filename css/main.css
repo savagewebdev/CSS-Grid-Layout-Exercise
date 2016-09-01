@@ -10,14 +10,12 @@
 }
 .row {
 	width: 100%;
-	margin-bottom: 20px;
+	margin-bottom: none;
 	display: flex;
 	flex-wrap: wrap;
 }
 .grid {
 	margin: 0 auto;
-	max-width: 1200px;
-	width: 100%;
 }
 .col-1 {
 	width: 8.33%;
